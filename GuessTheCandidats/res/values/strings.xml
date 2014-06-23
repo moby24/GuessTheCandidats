@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Выборы2014</string>
+    <string name="action_settings">Settings</string>
+    <string name="guess_candidat">Угадай кандидата</string>
+    <string name="rules">Правила</string>
+    <string name="records">Доска почета</string>
+    <string name="chempions">Победители</string>
+    <string name="game">Игра</string>
+
+    <string-array name="arrPic">
+        <item>Bogomolec</item>
+        <item>Shkiryak</item>
+        <item>Carev</item>
+        <item>Cyshko</item>
+        <item>Dart Vaider</item>
+        <item>Dobkin</item>
+        <item>Grunenko</item>
+        <item>Klimenko</item>
+        <item>Tyagnubok</item>
+        <item>Kuibida</item>
+        <item>Boiko</item>
+        <item>Kyzmin</item>
+        <item>Lyashko</item>
+        <item>Malomush</item>
+        <item>Grucenko</item>
+        <item>Poroshenko</item>
+        <item>Rabinovich</item>
+        <item>Saranov</item>
+        <item>Konovaluk</item>
+        <item>Simonenko</item>
+        <item>Tigipko</item>
+        <item>Korolevskaya</item>
+        <item>Timoshenko</item>
+        <item>Yarosh</item>
+    </string-array>
+    <string-array name="arrButton">
+        <item>Богомолец</item>
+        <item>Шкиряк</item>
+        <item>Царев</item>
+        <item>Цушко</item>
+        <item>Дарт Вейдер</item>
+        <item>Добкин</item>
+        <item>Гриненко</item>
+        <item>Клименко</item>
+        <item>Тягнибок</item>
+        <item>Куйбида</item>
+        <item>Бойко</item>
+        <item>Кузьмин</item>
+        <item>Ляшко</item>
+        <item>Маломуж</item>
+        <item>Гриценко</item>
+        <item>Порошенко</item>
+        <item>Рабинович</item>
+        <item>Саранов</item>
+        <item>Коновалюк</item>
+        <item>Симоненко</item>
+        <item>Тигипко</item>
+        <item>Королевская</item>
+        <item>Тимошенко</item>
+        <item>Ярош</item>
+    </string-array>
+
+</resources>
